@@ -1,0 +1,6 @@
+{
+  "name": "Guardian Travels - Bus Reservation System",
+  "description": "Comprehensive Bus Reservation System with passenger registration, real-time seat availability, visual seat booking, PNR ticket generation, automated cancellation & refund, and interactive MySQL & JDBC architecture console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
